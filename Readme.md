@@ -15,3 +15,8 @@ We employ the following datasets in our work:
 4. MSR-VTT can can be downloaded by clicking [here](https://www.mediafire.com/folder/h14iarbs62e7p/shared "msrvtt")
 5. YouCook2 . the preextracted features can be downloaded [here](http://youcook2.eecs.umich.edu/static/YouCookII/YouCookII.tar.gz "youcook2")
 6. LSMDC [click here](https://sites.google.com/site/describingmovies/download)
+
+# Training :
+Coming soon!
+# Testing :
+Coming soon!
