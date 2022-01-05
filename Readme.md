@@ -17,6 +17,5 @@ We employ the following datasets in our work:
 6. LSMDC [click here](https://sites.google.com/site/describingmovies/download)
 
 # Training :
-Coming soon!
-# Testing :
-Coming soon!
+Example training command on Activitynet : <br>
+python train.py anet_precomp --feat_name i3d --img_dim 2048 --norm
